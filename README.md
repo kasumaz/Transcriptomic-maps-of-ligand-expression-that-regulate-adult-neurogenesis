@@ -3,4 +3,10 @@ ABSTRACT In the adult central nervous system (CNS), the subventricular zone (SVZ
 
 
 ![fnins-12-00220-g006](https://user-images.githubusercontent.com/31452870/79239556-ff20d480-7e70-11ea-97af-ffbfe4e3b2fb.jpg)
+
+
 Schematic overview of ligands identified that regulate adult neurogenesis. An overview of ligands detected with a focus on novel ligand expression in studied regions and cell types. Bottom left hand corner inset shows an overview of a coronal section of the brain highlighting the lateral ventricle (lv), corpus callosum (cc) and cortex (ctx).
+
+Here you will find the raw data used for this study. Please cite us at: 
+Azim et al. Transcriptional Profiling of Ligand Expression in Cell Specific Populations of the Adult Mouse Forebrain That Regulates Neurogenesis. Front Neurosci. 2018; 12: 220.
+https://www.frontiersin.org/articles/10.3389/fnins.2018.00220/full#h5
