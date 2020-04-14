@@ -83,9 +83,10 @@ Above and below you will find the raw data used for this study.
 The main webtool used was the R online environment: 
 https://carmaweb.genome.tugraz.at/carma/
 
-The R Package (older version of the following link)
+The R Package (older version of the following link):
 https://www.bioconductor.org/packages/devel/workflows/vignettes/maEndToEnd/inst/doc/MA-Workflow.html
-Can be used to obtain very similar data. 
+
+Can be used to obtain very similar results. 
 
 See the manuscript for the other tools and analysis performed. 
 
