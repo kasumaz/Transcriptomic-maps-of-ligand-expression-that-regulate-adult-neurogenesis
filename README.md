@@ -22,8 +22,11 @@ Schematic overview of ligands identified that regulate adult neurogenesis. An ov
 
 
 Figure 1: 
+
 [Figure 1A - PCA Matrix.zip](https://github.com/Gliogenesis/Transcriptomic-maps-of-ligand-expression-that-regulate-adult-neurogenesis/files/4476646/Figure.1A.-.PCA.Matrix.zip)
+
 [Figure 1D -  Pathway Work.zip](https://github.com/Gliogenesis/Transcriptomic-maps-of-ligand-expression-that-regulate-adult-neurogenesis/files/4476647/Figure.1D.-.Pathway.Work.zip)
+
 ![Figure 1](https://user-images.githubusercontent.com/31452870/79250913-bb819700-7e7f-11ea-9b1a-abb578725c23.PNG)
 
 
@@ -62,12 +65,20 @@ Figure 5:
 Above and below you will find the raw data used for this study. 
 
 [All Figures - Gene Lists and Analysis.zip](https://github.com/Gliogenesis/Transcriptomic-maps-of-ligand-expression-that-regulate-adult-neurogenesis/files/4476643/All.Figures.-.Gene.Lists.and.Analysis.zip)
+
 [All Figures - Reactome Pathway Analysis.zip](https://github.com/Gliogenesis/Transcriptomic-maps-of-ligand-expression-that-regulate-adult-neurogenesis/files/4476644/All.Figures.-.Reactome.Pathway.Analysis.zip)
+
 [All Figures - RMA Normalised Matrix.zip](https://github.com/Gliogenesis/Transcriptomic-maps-of-ligand-expression-that-regulate-adult-neurogenesis/files/4476645/All.Figures.-.RMA.Normalised.Matrix.zip)
+
 [Glial Cell Specific Ligands Lists.zip](https://github.com/Gliogenesis/Transcriptomic-maps-of-ligand-expression-that-regulate-adult-neurogenesis/files/4476650/Glial.Cell.Specific.Ligands.Lists.zip)
+
 [Niche Cell Specific Ligands Lists.zip](https://github.com/Gliogenesis/Transcriptomic-maps-of-ligand-expression-that-regulate-adult-neurogenesis/files/4476651/Niche.Cell.Specific.Ligands.Lists.zip)
+
 [Supplementary qNSCs vs aNSCs.zip](https://github.com/Gliogenesis/Transcriptomic-maps-of-ligand-expression-that-regulate-adult-neurogenesis/files/4476652/Supplementary.qNSCs.vs.aNSCs.zip)
+
 [Table 1 - Niche Ligand Classification.zip](https://github.com/Gliogenesis/Transcriptomic-maps-of-ligand-expression-that-regulate-adult-neurogenesis/files/4476654/Table.1.-.Niche.Ligand.Classification.zip)
+
+
 
 The main webtool used was the R online environment: 
 https://carmaweb.genome.tugraz.at/carma/
